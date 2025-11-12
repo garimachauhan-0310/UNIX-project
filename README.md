@@ -79,6 +79,12 @@ chmod +x menu_file_organizer.sh
 
 ---
 
+## 🧾 License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/garimachauhan-0310/UNIX-project/blob/main/LICENSE) file for details.
+
+---
+
 ## 🧑‍💻 Author
 
 **Garima Chauhan**
